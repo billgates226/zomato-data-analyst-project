@@ -47,19 +47,19 @@ This project analyzes restaurant data from Zomato (Bangalore region) to discover
 ## 📊 Power BI Dashboard Preview
 
 ### ✅ Top 10 Locations by Restaurants
-![Top 10 Locations](images/top_10_locations(bar_chart).png)
+![Top 10 Locations](top_10_locations(bar_chart).png)
 
 ### ✅ Most Popular Cuisines
-![Top Cuisines](images/top_10_cuisines(bar_chart).png)
+![Top Cuisines](top_10_cuisines(bar_chart).png)
 
 ### ✅ Rating Distribution
-![Rating Distribution](images/Rating_Distribution(clustered_column_chart).png)
+![Rating Distribution](Rating_Distribution(clustered_column_chart).png)
 
 ### ✅ Online Order vs Rating
-![Online Order vs Rating](images/Online_Order_vs_Rating(Bar_chart).png)
+![Online Order vs Rating](Online_Order_vs_Rating(Bar_chart).png)
 
 ### ✅ Cost for Two vs Rating
-![Cost vs Rating](images/Cost_for_Two_vs_Rating_(Scatter_Plot).png)
+![Cost vs Rating](Cost_for_Two_vs_Rating_(Scatter_Plot).png)
 
 ---
 
